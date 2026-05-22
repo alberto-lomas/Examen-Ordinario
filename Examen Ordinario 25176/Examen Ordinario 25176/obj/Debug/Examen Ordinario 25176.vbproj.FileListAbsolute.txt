@@ -1,0 +1,12 @@
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.vbprojAssemblyReference.cache
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen_Ordinario_25176.Form1.resources
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen_Ordinario_25176.Resources.resources
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.vbproj.GenerateResource.cache
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.vbproj.CoreCompileInputs.cache
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\bin\Debug\Examen Ordinario 25176.exe.config
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\bin\Debug\Examen Ordinario 25176.exe
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\bin\Debug\Examen Ordinario 25176.pdb
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\bin\Debug\Examen Ordinario 25176.xml
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.exe
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.xml
+C:\Users\win512\Downloads\Examen Ordinario 25176\Examen Ordinario 25176\obj\Debug\Examen Ordinario 25176.pdb
